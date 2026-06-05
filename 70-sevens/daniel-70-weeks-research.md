@@ -70,7 +70,7 @@ Daniel's 70 weeks prophecy (Daniel 9:24–27) is analyzed across different inter
 
 [6] Ptolemy's Canon. Livius.org. https://www.livius.org/articles/concept/ptolemys-canon/
 
-[7] Elephantine Papyri. Livius.org. https://www.livius.org/articles/place/elephantine/elephantine-papyri/
+[7] Elephantine Papyri. Livius.org. https://archive.org/details/the-elephantine-papyri-in-english/
 
 [8] Murashu Tablets (Business Documents of Murashu Sons of Nippur). Albert T. Clay, 1904 edition. Internet Archive. https://archive.org/details/business-documents-of-murashu-sons-of-nippur-dated-in-the-reign-of-darius-ii-1904
 
