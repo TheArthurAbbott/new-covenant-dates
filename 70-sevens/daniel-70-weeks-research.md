@@ -64,13 +64,13 @@ Daniel's 70 weeks prophecy (Daniel 9:24–27) is analyzed across different inter
 
 [3] Cyrus Cylinder. British Museum, 1880-0617-1941. https://www.britishmuseum.org/collection/object/W_1880-0617-1941
 
-[4] Josephus. Antiquities of the Jews, Book XI. Scaife Viewer (Perseus Digital Library). https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:11.1.1
+[4] Josephus. Antiquities of the Jews, Book XI. Perseus Digital Library. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=11
 
 [5] Behistun Inscription. UNESCO World Heritage Centre. https://whc.unesco.org/en/list/1222
 
 [6] Ptolemy's Canon. Livius.org. https://www.livius.org/articles/concept/ptolemys-canon/
 
-[7] Elephantine Papyri. Livius.org. https://www.livius.org/articles/place/elephantine/
+[7] Elephantine Papyri. Livius.org. https://www.livius.org/articles/place/elephantine/elephantine-papyri/
 
 [8] Murashu Tablets (Business Documents of Murashu Sons of Nippur). Albert T. Clay, 1904 edition. Internet Archive. https://archive.org/details/business-documents-of-murashu-sons-of-nippur-dated-in-the-reign-of-darius-ii-1904
 
