@@ -7,7 +7,7 @@ This document provides onboarding instructions to optimize the use of Copilot wi
 ## Repository Summary
 
 ### Purpose
-This repository focuses on dating significant scriptural events, such as Daniel's 70 weeks, using both Biblical and extra-Biblical historical sources. It emphasizes unbiased research, academic rigor, and the use of multiple reference points.
+This repository focuses on dating significant scriptural events, such as Daniel's 70 weeks, using both Biblical and extra-Biblical historical sources. It emphasizes unbiased research, academic rigor, and clear documentation of sources for verifiable historical analysis.
 
 ### Key Details
 - **Language:** Markdown and any parsing language for managing historical data processing.
@@ -43,9 +43,9 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 
 #### Root-level Files
 - **README.md:** General project introduction. Refer here first for context.
-- **daniel-70-weeks-research.md:** In-depth research document on dating Daniel’s 70 weeks.
 - **Key Directories:**
   - `.github/`: Contains workflows. Used for CI setups and file validation.
+  - `70-sevens/`: Contains dating of events regarding Daniel's 70 weeks of years.
 
 #### Validation Pipelines
 - Validate Markdown (`.md`) syntax and content structure regularly to ensure proper rendering and hyperlink functionality.
@@ -68,9 +68,36 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 
 ## Copilot-Specific Instructions
 
-1. **Dating Principles:** Always cross-reference **Biblical sources** with at least two **extra-Biblical historical sources** where possible. Avoid unverifiable data.
+### Citation Style: Wikipedia-Style Footnotes
+
+1. **Numerical Citations Only:**
+   - In the main body text, citations shall appear as **simple numerical references in square brackets** (e.g., `[1]`, `[2]`, `[3]`).
+   - These numbers must be **non-descriptive** and purely sequential.
+   - Readers should encounter only the number in the main text without any descriptive text or author names inline.
+
+2. **Footnote Format:**
+   - At the end of each document or section, create a footnotes section with the heading `## References` or `## Footnotes`.
+   - Each numbered entry must follow this exact format:
+     ```
+     [1] Article Title. Author Name. URL
+     ```
+   - Example:
+     ```
+     [1] The Chronology of the New Testament. John Smith. https://example.com/article
+     ```
+
+3. **Dead Link Policy:**
+   - **No dead links are permitted.** Before including any source, verify the link is active and accessible.
+   - If a source link is dead or inaccessible:
+     a. Attempt to locate the original content using **archive.org (Internet Archive Wayback Machine)**.
+     b. If an archived version exists and can be reliably accessed, use the archive.org URL instead: `https://web.archive.org/web/[date]/[original-url]`
+     c. If the source cannot be found on archive.org or the archived version is incomplete/unreliable, **do not use the source**. Replace it with an alternative source that meets credibility standards.
+
+### Dating Principles
+
+1. Always cross-reference **Biblical sources** with at least two **extra-Biblical historical sources** where possible. Avoid unverifiable data.
 2. **Bias-Free Interpretation:** Be rigorous in presenting unbiased interpretations. Ensure analysis represents multiple datasets, outlining disagreements clearly.
-3. **Footnotes Standardization:** Every citation requires a direct link. Prioritize **direct access sources** like museum artifacts, journal-level historical timelines, or highly accredited archival data.
+3. **Source Validation:** Every citation requires a direct, verified link. Prioritize **direct access sources** like museum artifacts, journal-level historical timelines, or highly accredited archives.
 4. **Preferred Outputs:**
    - Summary tables for organizing dated events.
    - Sectioned narratives explaining each data point prior to table inclusion.
