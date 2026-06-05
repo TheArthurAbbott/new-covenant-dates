@@ -58,7 +58,7 @@ Daniel's 70 weeks prophecy (Daniel 9:24–27) is analyzed across different inter
 
 ## References
 
-[1] Babylonian Chronicle (ABC 5). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-babylonian-chronicle/
+[1] Babylonian Chronicle (ABC 5, Jerusalem Chronicle). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/
 
 [2] Nabonidus Chronicle (ABC 7). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/
 
