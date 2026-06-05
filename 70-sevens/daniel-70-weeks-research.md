@@ -58,9 +58,9 @@ Daniel's 70 weeks prophecy (Daniel 9:24–27) is analyzed across different inter
 
 ## References
 
-[1] Babylonian Chronicle BM 21946 (Nebuchadnezzar Chronicle). Cuneiform Digital Library Initiative. https://cdli.earth/artifacts/P555785
+[1] Babylonian Chronicle (ABC 5). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-babylonian-chronicle/
 
-[2] Nabonidus Chronicle. Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/
+[2] Nabonidus Chronicle (ABC 7). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/
 
 [3] Cyrus Cylinder. British Museum, 1880-0617-1941. https://www.britishmuseum.org/collection/object/W_1880-0617-1941
 
