@@ -40,7 +40,7 @@ Daniel's 70 weeks prophecy (Daniel 9:24–27) is analyzed across different inter
 - **Date Range:** 445–444 BCE
   - **Context:** Artaxerxes authorized Nehemiah to rebuild Jerusalem's walls and address its political and social stability.
   - **Significance:** Most explicitly fits the command to "restore and rebuild Jerusalem" described in Daniel 9:25.
-  - **Sources:** The Murashu Tablets [8] are Babylonian texts confirming Jewish officials and economic activity during this period. Persian Administrative Archives [9] contain records of decrees aligning with Nehemiah's commission.
+  - **Sources:** The Murashu Tablets [8] are Babylonian texts confirming Jewish officials and economic activity during this period. The Persepolis Fortification Archive [9] contains records of decrees aligning with Nehemiah's commission.
 
 ---
 
@@ -58,20 +58,20 @@ Daniel's 70 weeks prophecy (Daniel 9:24–27) is analyzed across different inter
 
 ## References
 
-[1] Babylonian Chronicle, BM 21946. British Museum. https://www.britishmuseum.org/collection/object/W_BM-21946
+[1] Babylonian Chronicle BM 21946 (Nebuchadnezzar Chronicle). Cuneiform Digital Library Initiative. https://cdli.earth/artifacts/P555785
 
-[2] Nabonidus Chronicle. Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles/abc-7-nabonidus-chronicle/
+[2] Nabonidus Chronicle. Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/
 
 [3] Cyrus Cylinder. British Museum, 1880-0617-1941. https://www.britishmuseum.org/collection/object/W_1880-0617-1941
 
-[4] Josephus. Antiquities of the Jews, Book XI. Perseus Digital Library. https://www.perseus.tufts.edu/hopper/text?doc=Josephus,%20Antiquities%20of%20the%20Jews
+[4] Josephus. Antiquities of the Jews, Book XI. Scaife Viewer (Perseus Digital Library). https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:11.1.1
 
-[5] Behistun Inscription. UNESCO World Heritage List. https://whc.unesco.org/en/list/52/
+[5] Behistun Inscription. UNESCO World Heritage Centre. https://whc.unesco.org/en/list/1222
 
-[6] Ptolemy's Canon. Multiple editions available through Google Books and academic archives. https://books.google.com/books?id=AxkRAAAAYAAJ
+[6] Ptolemy's Canon. Livius.org. https://www.livius.org/articles/concept/ptolemys-canon/
 
 [7] Elephantine Papyri. Livius.org. https://www.livius.org/articles/place/elephantine/
 
-[8] Murashu Tablets. Louvre Museum. https://www.louvre.fr/en/explore/the-palace/temples-and-tablets-babylonian-examples
+[8] Murashu Tablets (Business Documents of Murashu Sons of Nippur). Albert T. Clay, 1904 edition. Internet Archive. https://archive.org/details/business-documents-of-murashu-sons-of-nippur-dated-in-the-reign-of-darius-ii-1904
 
-[9] Persian Administrative Archives. Persepolis Fortification Archive. https://www.persepolisfortificationarchive.org/
+[9] Persepolis Fortification Archive (Persian Administrative Archives). Institute for the Study of Ancient Cultures. https://isac.uchicago.edu/research/projects/persepolis-fortification-archive
