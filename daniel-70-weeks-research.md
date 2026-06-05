@@ -9,8 +9,8 @@ Daniel’s 70 weeks prophecy (Daniel 9:24–27) is analyzed across different int
   - **Context:** Jeremiah predicted a 70-year exile under Babylon until God restored His people.
   - **Significance:** This spans from Babylon’s rise to power (605 BCE) to the first return under Persian King Cyrus (~536 BCE). Possible prelude to Daniel’s prophecy.
   - **Sources:**
-    1. Babylonian Chronicle (BM 21946) - Chronicles the first deportations under Nebuchadnezzar (~597 BCE).
-    2. Nabonidus Chronicle - Confirms the timeline of Babylonian dominance and the end of exile with Cyrus’s conquest (~539 BCE).
+    1. Babylonian Chronicle (BM 21946) - Chronicles the first deportations under Nebuchadnezzar (~597 BCE) ([Source](https://www.britishmuseum.org/collection/object/W_BM-21946)).
+    2. Nabonidus Chronicle - Confirms the timeline of Babylonian dominance and the end of exile with Cyrus’s conquest (~539 BCE) ([Source](https://www.livius.org/sources/content/mesopotamian-chronicles/abc-7-nabonidus-chronicle/)).
 
 ---
 
@@ -20,8 +20,8 @@ Daniel’s 70 weeks prophecy (Daniel 9:24–27) is analyzed across different int
   - **Significance:** This event is seen as fulfilling Jeremiah’s prophecy and possibly starting the prophetic timeline.
   - **Sources:**
     1. **Cyrus Cylinder (British Museum):** _“I returned to [these] sacred cities... I collected all their people and returned them to their settlements.”_
-       ([British Museum](https://www.britishmuseum.org/collection/object/W_1880-0617-1941))
-    2. **Josephus, Antiquities XI:** Describes Cyrus’s decree allowing the Jews’ return and connecting it with Isaiah’s prophecy.
+       ([Source](https://www.britishmuseum.org/collection/object/W_1880-0617-1941))
+    2. **Josephus, Antiquities XI:** Describes Cyrus’s decree allowing the Jews’ return and connecting it with Isaiah’s prophecy ([Source](https://www.perseus.tufts.edu/hopper/text?doc=Josephus,%20Antiquities%20of%20the%20Jews)).
 
 ---
 
@@ -30,8 +30,8 @@ Daniel’s 70 weeks prophecy (Daniel 9:24–27) is analyzed across different int
   - **Context:** Darius reaffirmed Cyrus’s decree, enabling the temple’s reconstruction amidst opposition.
   - **Significance:** Though focused on religious recovery, it aligns with the broader restoration efforts of Jerusalem.
   - **Sources:**
-    1. Behistun Inscription: Evidence supporting Darius’s administrative policies.
-    2. Josephus, Antiquities XI: Confirms Darius’s ongoing support for Jewish religious leaders to complete temple construction.
+    1. Behistun Inscription: Evidence supporting Darius’s administrative policies ([Source](https://whc.unesco.org/en/list/52/)).
+    2. Josephus, Antiquities XI: Confirms Darius’s ongoing support for Jewish religious leaders to complete temple construction ([Source](https://www.perseus.tufts.edu/hopper/text?doc=Josephus,%20Antiquities%20of%20the%20Jews)).
 
 ---
 
@@ -40,8 +40,8 @@ Daniel’s 70 weeks prophecy (Daniel 9:24–27) is analyzed across different int
   - **Context:** Artaxerxes granted Ezra authority to establish temple services and judicial governance in Judea.
   - **Significance:** Seen as part of an incremental process to restore the Jewish community’s religious and administrative autonomy.
   - **Sources:**
-    1. Ptolemy’s Canon: Astronomical texts used to date Artaxerxes’ reign.
-    2. Elephantine Papyri: Documents reflecting Persian governance over Jewish communities and religious matters.
+    1. Ptolemy’s Canon: Astronomical texts used to date Artaxerxes’ reign ([Source](https://books.google.com/books?id=AxkRAAAAYAAJ)).
+    2. Elephantine Papyri: Documents reflecting Persian governance over Jewish communities and religious matters ([Source](https://www.livius.org/articles/place/elephantine/)).
 
 ---
 
@@ -50,8 +50,8 @@ Daniel’s 70 weeks prophecy (Daniel 9:24–27) is analyzed across different int
   - **Context:** Artaxerxes authorized Nehemiah to rebuild Jerusalem’s walls and address its political and social stability.
   - **Significance:** Most explicitly fits the command to “restore and rebuild Jerusalem” described in Daniel 9:25.
   - **Sources:**
-    1. Murashu Tablets: Babylonian texts confirming Jewish officials and economic activity during this period.
-    2. Persian Administrative Archives: Records of decrees aligning with Nehemiah’s commission.
+    1. Murashu Tablets: Babylonian texts confirming Jewish officials and economic activity during this period ([Source](https://www.louvre.fr/en/explore/the-palace/temples-and-tablets-babylonian-examples)).
+    2. Persian Administrative Archives: Records of decrees aligning with Nehemiah’s commission ([Source](https://www.persepolisfortificationarchive.org/)).
 
 ---
 
@@ -69,13 +69,12 @@ Daniel’s 70 weeks prophecy (Daniel 9:24–27) is analyzed across different int
 
 ## References
 
-1. Nabonidus Chronicle (British Museum)
-2. Babylonian Chronicle, BM 21946
-3. Cyrus Cylinder ([British Museum](https://www.britishmuseum.org/collection/object/W_1880-0617-1941))
-4. Josephus, Antiquities of the Jews XI
-5. Behistun Inscription
-6. Elephantine Papyri
-7. Ptolemy’s Canon
-8. Murashu Tablets
-9. Persian Administrative Archives
-10. Talmudic and Rabbinic Sources
+1. [Nabonidus Chronicle (British Museum)](https://www.britishmuseum.org/collection/object/W_BM-21946)
+2. [Babylonian Chronicle, BM 21946](https://www.livius.org/sources/content/mesopotamian-chronicles/abc-7-nabonidus-chronicle/)
+3. [Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)
+4. [Josephus, Antiquities of the Jews XI](https://www.perseus.tufts.edu/hopper/text?doc=Josephus,%20Antiquities%20of%20the%20Jews)
+5. [Behistun Inscription](https://whc.unesco.org/en/list/52/)
+6. [Elephantine Papyri](https://www.livius.org/articles/place/elephantine/)
+7. [Ptolemy’s Canon](https://books.google.com/books?id=AxkRAAAAYAAJ)
+8. [Murashu Tablets](https://www.louvre.fr/en/explore/the-palace/temples-and-tablets-babylonian-examples)
+9. [Persian Administrative Archives](https://www.persepolisfortificationarchive.org/)
