@@ -43,9 +43,9 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 
 #### Root-level Files
 - **README.md:** General project introduction. Refer here first for context.
-- **daniel-70-weeks-research.md:** In-depth research document on dating Daniel's 70 weeks.
 - **Key Directories:**
   - `.github/`: Contains workflows. Used for CI setups and file validation.
+  - `70-sevens/`: Contains dating of events regarding Daniel's 70 weeks of years.
 
 #### Validation Pipelines
 - Validate Markdown (`.md`) syntax and content structure regularly to ensure proper rendering and hyperlink functionality.
