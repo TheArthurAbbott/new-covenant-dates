@@ -14,7 +14,7 @@ Commentary / explanation of reasoning.
 
 ---
 
-## Event Name: Date (to Date) BC/AD
+## Event Name: Date-Date BC/AD
 
 > Quote from article
 
