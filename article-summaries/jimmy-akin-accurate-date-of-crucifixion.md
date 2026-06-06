@@ -6,7 +6,7 @@ Jimmy Akin (Catholic Answers) argues that seven clues from the Gospels and extra
 
 ---
 
-## Death of Herod the Great -- 1 BC
+## Death of Herod the Great - 1 BC
 
 > "The view that Herod died in 4 B.C. has been popular for some time, but recent studies indicate that this view is probably wrong and that the traditional date of Herod's death, 1 B.C., is correct."
 
@@ -14,7 +14,7 @@ Akin rejects the widely-held 4 BC date for Herod's death, citing Jack Finegan's 
 
 ---
 
-## Birth of Jesus -- 3 to 2 BC
+## Birth of Jesus - 3 to 2 BC
 
 > "Consequently, Jesus was not born in 7 or 6 B.C. but in 3 or 2 B.C., as multiple early sources indicate. [...] A large majority of early Christian sources place Jesus' birth at this time."
 
@@ -22,7 +22,7 @@ With Herod's death placed at 1 BC, Akin dates Jesus's birth to late 3 BC or earl
 
 ---
 
-## Ministry of John the Baptist Begins -- AD 29
+## Ministry of John the Baptist Begins - AD 29
 
 > "In Luke's gospel, Luke tells us that the ministry of John the Baptist began in the 15th year of Tiberius Caesar. [...] Tiberius' first year, you can treat it for practical purposes as being AD 15. So if you then fast-forward 14 more years from his first year to get to his 15th year, that tells you that the 15th year of Tiberius Caesar is basically AD 29."
 
@@ -30,7 +30,7 @@ Akin treats Luke 3:1 as a precise chronological anchor. Augustus died in August 
 
 ---
 
-## Ministry of Jesus -- AD 29 to AD 33
+## Ministry of Jesus - AD 29 to AD 33
 
 > "John's Gospel refers to multiple Passovers, indicating that Jesus' ministry spanned more than two years -- a better fit for A.D. 33."
 
@@ -38,7 +38,7 @@ The Gospel of John mentions at least three Passovers during Jesus's ministry (Jo
 
 ---
 
-## Crucifixion of Jesus -- April 3, AD 33
+## Crucifixion of Jesus - April 3, AD 33
 
 > "Only two years in that window align a Friday with Passover: April 7, A.D. 30, and April 3, A.D. 33. [...] Taken together, Akin argued, these seven clues point to 3 p.m. on Friday, April 3, A.D. 33."
 

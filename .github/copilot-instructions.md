@@ -44,8 +44,9 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 #### Root-level Files
 - **README.md:** General project introduction. Refer here first for context.
 - **Key Directories:**
-  - `.github/`: Contains workflows. Used for CI setups and file validation.
+  - `.github/`: Contains workflows, copilot instructions, and the article summary template.
   - `70-sevens/`: Contains dating of events regarding Daniel's 70 weeks of years.
+  - `article-summaries/`: Contains structured summaries of external articles relevant to New Covenant dating.
 
 #### Validation Pipelines
 - Validate Markdown (`.md`) syntax and content structure regularly to ensure proper rendering and hyperlink functionality.
@@ -153,6 +154,15 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 4. **Documentation & Auditing:**
    - If a link replacement was necessary, note the reason briefly in a commit message or comment (e.g., "Replace broken CDLI link with Livius.org source for better accessibility").
    - Periodically audit links in documents (especially those citing online-only sources) to identify and fix dead links before they propagate.
+
+### Article Summary Format
+
+When creating article summaries in the `article-summaries/` directory, follow the template at **`.github/article-summary-template.md`**. Key conventions:
+- **Section headings** use the format `## Event Name - Date BC/AD` (single hyphen separator, not double-dash).
+- For date ranges, use `## Event Name - Date to Date BC/AD`.
+- Each event section must include a **blockquote** from the article and a **commentary** paragraph.
+- End with a **Summary** table and a closing commentary on significance to other New Covenant events.
+- Note any known biases in the author's interpretation in the opening summary.
 
 ### Dating Principles
 
