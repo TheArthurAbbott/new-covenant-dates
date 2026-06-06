@@ -1,6 +1,6 @@
-# Research: Start Dates for Daniel's 70 Weeks
+# Research: Start Dates for Daniel's 70 Weeks of Years
 
-Daniel's 70 weeks prophecy (Daniel 9:24–27) is analyzed across different interpretations and starting points. Below are the possible date ranges for the prophecy's beginning, supported by references to historical sources.
+Daniel's 70 weeks of years prophecy (Daniel 9:24–27) is analyzed across different interpretations and starting points. Below are the possible date ranges for the prophecy's beginning, supported by references to historical sources.
 
 ---
 
