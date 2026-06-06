@@ -6,7 +6,7 @@ Summary in two sentences.
 
 ---
 
-## Event Name - Date BC/AD
+## Event Name: Date BC/AD
 
 > Quote from article
 
@@ -14,7 +14,7 @@ Commentary / explanation of reasoning.
 
 ---
 
-## Event Name - Date (to Date) BC/AD
+## Event Name: Date (to Date) BC/AD
 
 > Quote from article
 
