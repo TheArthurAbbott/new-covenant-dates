@@ -4,11 +4,11 @@ Daniel's 70 weeks of years prophecy (Daniel 9:24–27) is analyzed across differ
 
 ---
 
-## 1. **Jeremiah's Prophecy**
-- **Date Range:** Approx. 605–536 BCE
-  - **Context:** Jeremiah predicted a 70-year exile under Babylon until God restored His people.
-  - **Significance:** This spans from Babylon's rise to power (605 BCE) to the first return under Persian King Cyrus (~536 BCE). Possible prelude to Daniel's prophecy.
-  - **Sources:** The Babylonian Chronicle [1] chronicles the first deportations under Nebuchadnezzar (~597 BCE). The Nabonidus Chronicle [2] confirms the timeline of Babylonian dominance and the end of exile with Cyrus's conquest (~539 BCE).
+## 1. **Jeremiah's Prophecy (as the Decree to Restore)**
+- **Date Range:** 609–605 BCE
+  - **Context:** In one interpretation, Jeremiah's prophetic word itself constitutes the "decree to restore and rebuild Jerusalem" referenced in Daniel 9:25. The Hebrew word *davar* in Daniel 9:25 can mean either a royal decree or a prophetic word; in this view, God's word through Jeremiah (Jeremiah 25:1–14; 29:10) — promising restoration after 70 years of Babylonian servitude — is the *davar* that "went forth."
+  - **Significance:** The earlier date of 609 BCE marks when Babylonian hegemony effectively began: Nabopolassar conquered Harran, the last Assyrian capital, and Egypt's counter-campaign under Necho II failed to retake it [10] [11]. The later date of 605 BCE corresponds to Jeremiah 25:1, when the prophetic word came explicitly "in the fourth year of Jehoiakim... the first year of Nebuchadnezzar." Both dates represent plausible starting points for when the prophetic decree "went forth."
+  - **Sources:** The Babylonian Chronicle [1] chronicles the first deportations under Nebuchadnezzar (~597 BCE). The Nabonidus Chronicle [2] confirms the timeline of Babylonian dominance and the end of exile with Cyrus's conquest (~539 BCE). The Fall of Nineveh Chronicle (ABC 3) [11] documents the fall of Harran in 609 BCE. BJU Seminary's chronological analysis [10] discusses the 609 BCE starting point for Babylonian hegemony.
 
 ---
 
@@ -48,7 +48,7 @@ Daniel's 70 weeks of years prophecy (Daniel 9:24–27) is analyzed across differ
 
 | Starting Point                             | Approximate Date         | Extra-Biblical References                       |
 |--------------------------------------------|--------------------------|------------------------------------------------|
-| Jeremiah's 70 years (Babylonian exile)     | 605–536 BCE              | Babylonian Chronicle, Nabonidus Chronicle     |
+| Jeremiah's prophecy (as decree to restore)  | 609–605 BCE              | ABC 3 (Fall of Nineveh), BJU Seminary         |
 | Cyrus's decree (for the temple)            | 539–538 BCE              | Cyrus Cylinder, Josephus (Antiquities XI)     |
 | Darius's decree (for the temple)           | 520–519 BCE              | Behistun Inscription, Josephus (Antiquities)  |
 | Artaxerxes to Ezra (temple/governance)     | 458–457 BCE              | Ptolemy's Canon, Elephantine Papyri           |
@@ -100,3 +100,11 @@ Daniel's 70 weeks of years prophecy (Daniel 9:24–27) is analyzed across differ
 [9] Persepolis Fortification Archive (Persian Administrative Archives). Institute for the Study of Ancient Cultures. https://isac.uchicago.edu/research/projects/persepolis-fortification-archive
 > "In 1933, Oriental Institute archaeologists working at Persepolis, clearing the ruined palaces of Kings Darius, Xerxes, and their Achaemenid Persian successors, found clay tablets in two small rooms of a bastion in the fortification wall at the edge of the great stone terrace. [...] Individually, the documents are mere records of storage and outlays of food, but as a whole, the Persepolis Fortification Archive shows a broader spectrum of Achaemenid Iranian society than any other source, from the lowliest workers to the king's own family. The PFA has fundamentally changed every aspect of the study of Achaemenid Iranian languages, art, institutions and history."
 > — Institute for the Study of Ancient Cultures, University of Chicago
+
+[10] So Was It 70 Years, or Not? BJU Seminary. https://seminary.bju.edu/theology-in-3d/so-was-it-70-years-or-not/
+> "Babylon (with its allies) destroyed the Assyrian capital, Nineveh, in 612. When the Assyrians relocated their capital in Haran, Babylonian King Nabopolassar conquered it as well, successfully resisting an Assyrian counterattack, decisively driving them beyond the Euphrates, and effectively ending Assyrian dominance in the region in 609. For all practical purposes, that's when Babylon became the new dominant world power. [...] So when did the 70 years of Jeremiah 25 commence? The language of Jer 25:12 allows some flexibility; judgment on Babylon would come when or even after the seventy years are completed. That allows a starting point of either 609, or possibly even 612. In either case, it is at least a full 70 years."
+> — BJU Seminary, Theology in 3D
+
+[11] Fall of Nineveh Chronicle (ABC 3). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/
+> "The end of the two Assyrian capitals was not the end of the war. A new king, whose name was Aššur-uballit II, set up a kingdom in Harran. But he was no match for Nabopolassar, who, according to the Fall of Nineveh Chronicle, 'marched to Assyria victoriously' in the fifteenth and sixteenth year of his reign (r.612–609). King Aššur-uballit was forced to leave Harran. [...] In June, Necho's men tried to recapture Harran for Aššur-uballit II and they may have come close to victory, but they had to raise their siege of Harran in August 609. After this event, Aššur-uballit and Assyria disappear from the historical sources."
+> — Livius.org summary; translation adapted from A.K. Grayson, *Assyrian and Babylonian Chronicles* (1975)
