@@ -79,19 +79,80 @@ This repository focuses on dating significant scriptural events, such as Daniel'
    - At the end of each document or section, create a footnotes section with the heading `## References` or `## Footnotes`.
    - Each numbered entry must follow this exact format:
      ```
-     [1] Article Title. Author Name. URL
+     [1] Source Title. Institution/Publisher. URL
+     > "A sizable, representative quotation from the source document that
+     > provides the reader with the key passage or evidence being cited,
+     > so they can evaluate the claim without needing to visit the link."
      ```
+   - **Source Quotation Requirement:** Every footnote **must** include a direct quotation from the source material, formatted as a Markdown blockquote (`>`). The quotation should:
+     a. Be **sizable and representative** — not a single phrase, but a full sentence or short paragraph that conveys the source's argument or evidence in context.
+     b. Contain the **specific passage** that supports the claim being made in the main text.
+     c. Be **faithfully reproduced** from the source. Use `[...]` to indicate omitted portions if trimming for length, but do not alter the meaning.
+     d. For non-English sources (e.g., ancient inscriptions, cuneiform translations), quote the **English translation** provided by the source, and note the translator or translation edition if available.
    - Example:
      ```
-     [1] The Chronology of the New Testament. John Smith. https://example.com/article
+     [1] Babylonian Chronicle (ABC 5, Jerusalem Chronicle). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/
+     > "In the seventh year, in the month of Kislev, the king of Akkad
+     > mustered his troops, marched to the Hatti-land, and encamped
+     > against the city of Judah and on the second day of the month of
+     > Adar he seized the city and captured the king. He appointed there
+     > a king of his own choice, received its heavy tribute and sent
+     > them to Babylon."
+     ```
+     ```
+     [2] Cyrus Cylinder. The British Museum. https://www.britishmuseum.org/collection/object/W_1880-0617-1941
+     > "I returned the images of the gods, who had resided there, to
+     > their places and I let them dwell in eternal abodes. I gathered
+     > all their inhabitants and returned to them their dwellings. [...]
+     > I collected together all of their people and returned them to
+     > their settlements."
      ```
 
-3. **Dead Link Policy:**
-   - **No dead links are permitted.** Before including any source, verify the link is active and accessible.
-   - If a source link is dead or inaccessible:
-     a. Attempt to locate the original content using **archive.org (Internet Archive Wayback Machine)**.
-     b. If an archived version exists and can be reliably accessed, use the archive.org URL instead: `https://web.archive.org/web/[date]/[original-url]`
-     c. If the source cannot be found on archive.org or the archived version is incomplete/unreliable, **do not use the source**. Replace it with an alternative source that meets credibility standards.
+### Dead Link Verification & Replacement Protocol
+
+**Critical Rule:** No dead links are permitted in any document. All URLs must be tested and verified as active before inclusion.
+
+1. **Link Verification Process:**
+   - Before finalizing any source, verify the link is active and accessible.
+   - Test links by attempting to access the full page/resource and confirm it contains the expected information.
+   - Check that the content matches the citation's description (e.g., if citing a museum artifact, confirm the URL contains museum collection records, not unrelated pages).
+
+2. **When a Link is Dead or Inaccessible:**
+   - **Step 1 - Search for Alternatives:**
+     - Identify the primary source institution (museum, archive, academic publisher, etc.).
+     - Search for the source on that institution's official website using their search function.
+     - If the direct institutional link is unavailable, proceed to Step 2.
+   
+   - **Step 2 - Use Archive.org (Internet Archive Wayback Machine):**
+     - Visit https://web.archive.org and search for the original dead URL.
+     - If archived snapshots exist, review them to confirm they contain the source material and are complete/readable.
+     - Use the archived URL if the snapshot quality is reliable: `https://web.archive.org/web/[YYYYMMDD]/[original-url]`
+     - Only use archive.org links if the captured content is legible and substantially complete.
+   
+   - **Step 3 - Seek Reliable Alternative Sources:**
+     - If archive.org has no useful snapshots, search for the same source on established academic platforms:
+       - **For Mesopotamian texts/chronicles:** Livius.org (established ancient history resource with peer-reviewed translations)
+       - **For classical texts:** Perseus Digital Library (Scaife Viewer), Project Gutenberg (for public domain texts)
+       - **For museum collections:** Direct links to institution's official collection database
+       - **For academic publications:** Internet Archive Scholar, Google Scholar, institutional repositories
+     - The replacement source must provide equivalent or superior information and credibility to the original.
+     - Prioritize sources that offer translations, scholarly commentary, or direct museum/institutional curation.
+   
+   - **Step 4 - If No Suitable Alternative Exists:**
+     - Do not use the source.
+     - Locate a different, verified source that covers the same historical material.
+     - If multiple attempts fail to find a working link for a critical source, flag the citation in a comment and work with repository maintainers to find a solution.
+
+3. **Best Practices for Link Reliability:**
+   - Prefer **direct institutional sources** (museum collections, university libraries, government archives) over secondary aggregators.
+   - Verify that URLs use consistent naming conventions across the institution's website (some sites update URL structures, causing old links to break).
+   - Test variations of URLs if initial links fail (e.g., if `/content/` returns 404, try removing it: `/mesopotamian-chronicles/`).
+   - Keep links concise and avoid overly specific URLs that include session IDs or temporary parameters.
+   - When citing a specific work (e.g., Book XI of Josephus' Antiquities), ensure the URL links directly to that section, not just the homepage.
+
+4. **Documentation & Auditing:**
+   - If a link replacement was necessary, note the reason briefly in a commit message or comment (e.g., "Replace broken CDLI link with Livius.org source for better accessibility").
+   - Periodically audit links in documents (especially those citing online-only sources) to identify and fix dead links before they propagate.
 
 ### Dating Principles
 
