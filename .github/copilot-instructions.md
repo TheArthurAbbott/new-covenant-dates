@@ -1,6 +1,6 @@
-# Copilot Instructions for TheArthurAbbott/new-covenant-dates
+# AI Instructions for TheArthurAbbott/new-covenant-dates
 
-This document provides onboarding instructions to optimize the use of Copilot within this repository. Follow these guidelines to perform tasks efficiently and accurately.
+This document provides onboarding instructions to optimize the use of an AI like Copilot within this repository. Follow these guidelines to perform tasks efficiently and accurately.
 
 ---
 
@@ -67,7 +67,7 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 
 ---
 
-## Copilot-Specific Instructions
+## AI-Specific Instructions
 
 ### Citation Style: Wikipedia-Style Footnotes
 
@@ -158,8 +158,8 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 ### Article Summary Format
 
 When creating article summaries in the `article-summaries/` directory, follow the template at **`.github/article-summary-template.md`**. Key conventions:
-- **Section headings** use the format `## Event Name - Date BC/AD` (single hyphen separator, not double-dash).
-- For date ranges, use `## Event Name - Date to Date BC/AD`.
+- **Section headings** use the format `## Event Name: Date BC/AD`.
+- For date ranges, use `## Event Name: Date-Date BC/AD`.
 - Each event section must include a **blockquote** from the article and a **commentary** paragraph.
 - End with a **Summary** table and a closing commentary on significance to other New Covenant events.
 - Note any known biases in the author's interpretation in the opening summary.
