@@ -80,10 +80,32 @@ This repository focuses on dating significant scriptural events, such as Daniel'
    - Each numbered entry must follow this exact format:
      ```
      [1] Source Title. Institution/Publisher. URL
+     > "A sizable, representative quotation from the source document that
+     > provides the reader with the key passage or evidence being cited,
+     > so they can evaluate the claim without needing to visit the link."
      ```
+   - **Source Quotation Requirement:** Every footnote **must** include a direct quotation from the source material, formatted as a Markdown blockquote (`>`). The quotation should:
+     a. Be **sizable and representative** — not a single phrase, but a full sentence or short paragraph that conveys the source's argument or evidence in context.
+     b. Contain the **specific passage** that supports the claim being made in the main text.
+     c. Be **faithfully reproduced** from the source. Use `[...]` to indicate omitted portions if trimming for length, but do not alter the meaning.
+     d. For non-English sources (e.g., ancient inscriptions, cuneiform translations), quote the **English translation** provided by the source, and note the translator or translation edition if available.
    - Example:
      ```
      [1] Babylonian Chronicle (ABC 5, Jerusalem Chronicle). Livius.org. https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/
+     > "In the seventh year, in the month of Kislev, the king of Akkad
+     > mustered his troops, marched to the Hatti-land, and encamped
+     > against the city of Judah and on the second day of the month of
+     > Adar he seized the city and captured the king. He appointed there
+     > a king of his own choice, received its heavy tribute and sent
+     > them to Babylon."
+     ```
+     ```
+     [2] Cyrus Cylinder. The British Museum. https://www.britishmuseum.org/collection/object/W_1880-0617-1941
+     > "I returned the images of the gods, who had resided there, to
+     > their places and I let them dwell in eternal abodes. I gathered
+     > all their inhabitants and returned to them their dwellings. [...]
+     > I collected together all of their people and returned them to
+     > their settlements."
      ```
 
 ### Dead Link Verification & Replacement Protocol
