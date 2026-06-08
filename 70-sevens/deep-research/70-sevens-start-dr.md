@@ -2,6 +2,20 @@
 
 ---
 
+## Summary
+
+The prophecy of Daniel’s “seventy weeks” (Daniel 9:24–27) outlines a 490-year period culminating in the arrival and death of an “anointed one” and the restoration of Jerusalem. Central to interpreting this prophecy is identifying the starting point of the timeline—“the issuing of the word to restore and rebuild Jerusalem.” Scholars have proposed five main candidates:
+
+- **Jeremiah’s Prophecy (609–605 BCE):** Viewed by some Jewish and critical scholars as the prophetic “word” initiating the seventy weeks. However, it lacks an explicit decree to rebuild Jerusalem, and the chronology does not align well with key historical events, making it a minority view.
+- **Cyrus’s Decree (539–538 BCE):** Authorized the rebuilding of the temple, not the city. While supported by biblical texts (Ezra, Isaiah) and extra-biblical sources (Cyrus Cylinder, Josephus), the timeline does not align precisely with messianic events, and the city-focused requirement of Daniel 9:25 is not clearly met.
+- **Darius I’s Decree (520–519 BCE):** Reaffirms Cyrus’s temple-focused decree. It lacks new authorization for city rebuilding and does not align chronologically with messianic expectations, making it a marginal view.
+- **Artaxerxes’ Decree to Ezra (458–457 BCE):** Grants religious and civil authority but lacks explicit mention of rebuilding Jerusalem’s walls. Counting 483 years from this date leads to ~27 CE, aligning with Jesus’s ministry. Favored by many 19th-century Protestant scholars.
+- **Artaxerxes’ Decree to Nehemiah (445–444 BCE):** Explicitly authorizes the rebuilding of Jerusalem’s walls and infrastructure. Using a 360-day “prophetic year,” 483 years from 444 BCE leads to 33 CE, aligning with Jesus’s crucifixion. This is the dominant view among modern evangelical scholars due to its textual clarity and chronological fit.
+
+Overall, the Nehemiah decree is most widely accepted for its explicit city-focused mandate and alignment with New Testament events, though alternative views persist based on theological, symbolic, or historical considerations.
+
+---
+
 ## Introduction
 
 The prophecy of the “seventy weeks” in Daniel 9:24–27 stands as one of the most debated chronological texts in biblical literature. Its interpretation has profound implications for Jewish and Christian eschatology, messianic expectation, and the historical reconstruction of the Second Temple period. Central to the debate is the identification of the prophecy’s starting point—the “issuing of the word [davar] to restore and rebuild Jerusalem.” Over the centuries, interpreters have proposed several possible start dates, each grounded in different historical decrees, biblical passages, and linguistic nuances. This report provides a comprehensive analysis of the major proposed starting points: Jeremiah’s prophecy (609–605 BCE), Cyrus’s decree (539–538 BCE), Darius’s decree (520–519 BCE), Artaxerxes’ decree to Ezra (458–457 BCE), and Artaxerxes’ decree to Nehemiah (445–444 BCE). For each, we examine the biblical context, linguistic and philological considerations, extra-biblical historical sources, archaeological evidence, and the spectrum of scholarly opinion. Special attention is given to the distinction between temple-focused and city-focused decrees, the meaning of key Hebrew terms, and the methodological challenges of prophetic chronology.
