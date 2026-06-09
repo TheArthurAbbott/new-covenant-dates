@@ -44,7 +44,7 @@ This repository focuses on dating significant scriptural events, such as Daniel'
 #### Root-level Files
 - **README.md:** General project introduction. Refer here first for context.
 - **Key Directories:**
-  - `.github/`: Contains workflows, copilot instructions, and the article summary template.
+  - `.github/`: Contains workflows, copilot instructions, and document templates (article summary, date possibilities).
   - `70-sevens/`: Contains dating of events regarding Daniel's 70 weeks of years.
   - `article-summaries/`: Contains structured summaries of external articles relevant to New Covenant dating.
 
@@ -163,6 +163,16 @@ When creating article summaries in the `article-summaries/` directory, follow th
 - Each event section must include a **blockquote** from the article and a **commentary** paragraph.
 - End with a **Summary** table and a closing commentary on significance to other New Covenant events.
 - Note any known biases in the author's interpretation in the opening summary.
+
+### Date Possibilities Format
+
+When creating research documents that catalog multiple dating possibilities for a scriptural event (e.g., start dates for Daniel's 70 weeks, possible years for the crucifixion), follow the template at **`.github/date-possibilities-template.md`**. Key conventions:
+- **Numbered sections** for each dating possibility: `## 1. **Possibility Name**`
+- Each section contains three sub-fields: **Date Range** (start-start format, not start-end), **Context**, **Significance**, and **Sources** (with footnote references).
+- Every source cited in the body must appear in the **References** section at the end, with a sizable blockquote and attribution per the footnote format.
+- Each possibility must cite **at least two extra-Biblical sources**.
+- A **Summary Table** collects all possibilities with columns: Starting Point, Approximate Date, Extra-Biblical References.
+- Date ranges use the format `Start Date - Start Date BC/AD` representing the range of possible start dates, not a start-to-end span of the event.
 
 ### Dating Principles
 
